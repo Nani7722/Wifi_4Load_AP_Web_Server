@@ -10,7 +10,7 @@
 #include <EEPROM.h>
 
 /* Put your SSID & Password */
-const char* ssid = "Wifi 4Load";  // Enter SSID here
+const char* ssid = "India111;  // Enter SSID here
 const char* password = "87654321";  //Enter Password here
 
 ESP8266WebServer server(80);
